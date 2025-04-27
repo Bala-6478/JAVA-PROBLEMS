@@ -1,0 +1,13 @@
+public class Main{
+    int salary(int money){
+        int savingAmount=12000;
+        int rem=200000-12000;
+        return rem;
+    }
+    public static void main(String[] args) {
+        Main obj=new Main();
+        int Saving=obj.salary(200000);
+
+        System.out.println(Saving);
+    }
+}
