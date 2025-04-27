@@ -1,0 +1,27 @@
+public class Main {
+
+    int calculateRemainingMoney(int salary) {
+        int savingAmount = 12000;
+        int foodCost = 5000;
+        int movieCost = 2000;
+        int otherExpenses = 8000;
+
+        int totalExpenses = savingAmount + foodCost + movieCost + otherExpenses;
+        int remaining = salary - totalExpenses;
+
+        return remaining;
+    }
+
+    public static void main(String[] args) {
+        Main obj = new Main();
+        int salary = 200000;
+        int remainingMoney = obj.calculateRemainingMoney(salary);
+
+        System.out.println("Salary: " + salary);
+        System.out.println("Saving Amount: 12000");
+        System.out.println("Food Cost: 5000");
+        System.out.println("Movie Cost: 2000");
+        System.out.println("Other Expenses: 8000");
+        System.out.println("Remaining Money: " + remainingMoney);
+    }
+}
