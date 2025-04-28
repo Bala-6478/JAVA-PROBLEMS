@@ -1,0 +1,25 @@
+public class Main{
+    String getname()
+    {
+        return "Guhan";
+    }
+    String getaddress()
+    {
+        return "erode erode";
+    }
+    String getphone()
+    {
+        return "999999999";
+    }
+    public static void main(String[] args) {
+        Main obj=new Main();
+
+        String name=obj.getname();
+        String address=obj.getaddress();
+        String number=obj.getphone();
+
+        System.out.println(name);
+        System.out.println(address);
+        System.out.println(number);
+    }
+}
