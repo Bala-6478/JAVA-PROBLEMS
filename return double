@@ -1,0 +1,10 @@
+import java.util.*;
+class Main{
+    double avg(double x,double y){
+        double res=(x+y)/2.0;
+        return res;
+    }
+    public static void main(String[] args){
+        System.out.println(new Main().avg(2.0,4.0));
+    }
+}
