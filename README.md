@@ -6,3 +6,4 @@
 ### 4. Nqt problem 
 ### 5. TimeConverter
 ### 6. Password Generator
+### 7. return double 
