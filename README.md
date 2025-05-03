@@ -9,4 +9,4 @@
 ### 7.  return double 
 ### 8.  ASCII values 
 ### 9.  Round the Number 
-### 10.
+### 10. Float to Integer 
