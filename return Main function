@@ -1,0 +1,13 @@
+public class Main{
+    void check(double  v){
+        if(v<9){
+            return;
+        }
+        v++;
+    }
+    public static void main(String[] args) {
+        Main obj=new Main();
+        obj.check(5.5);
+        System.out.println("program is ending");
+    }
+}
