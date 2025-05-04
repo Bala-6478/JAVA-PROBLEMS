@@ -1,0 +1,28 @@
+public class Main{
+    public static void main(String[] args) {
+        int res=processnumber(5);
+        System.out.println(" Return result "+res);
+    }
+    static int processnumber(int l){
+        outer:
+        for(int i=1;i<=l;i++){
+            for(int j=1;j<=3;j++){
+                if(i==3){
+                    System.out.println("skip to the int "+i);
+                    continue outer;
+                }
+                if(i==4 && j==2){
+                    System.out.println("break and exit "+i);
+                    break outer;
+                }
+                System.out.println("process i="+i +",j="+j);
+            }
+            if(i==2){
+                System.out.println("return the exit values "+(i*10));
+                return i*10;
+            }
+        }
+        System.out.println("return the looping ");
+        return -1;
+    }
+}
