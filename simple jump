@@ -1,0 +1,24 @@
+public class Main{
+    public static void main(String[] args) {
+        int result =processloop(5);
+        System.out.println("result "+result);
+    }
+    static int processloop(int n){
+        for(int i=1;i<=n;i++){
+            if(i==2){
+                System.out.println("skip the int "+i);
+                continue;
+                }
+                if(i==4){
+                    System.out.println("break the int" +i);
+                    break;
+                }
+                System.out.println("i="+i);
+                if(i==3){
+                    System.out.println("return "+i);
+                    return i;
+                }
+            }
+        return 0;
+    }
+}
