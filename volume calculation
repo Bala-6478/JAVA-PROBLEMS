@@ -1,0 +1,11 @@
+public class Main{
+    static int valume(int length,int breath,int height){
+        int vol=length*breath*height;
+        return vol;
+    }
+    public static void main(String[] args) {
+        System.out.println("calculation the volume :");
+        int voluems=valume(10, 6, 2);
+        System.out.println(voluems);
+    }
+}
