@@ -1,0 +1,14 @@
+public class Main{
+    String color;
+
+    public Main(String c){
+        color =c;
+    }
+    public void displayColor(){
+        System.out.println("the car color is :"+color);
+    }
+    public static void main(String[] args){
+        Main mycar=new Main("red"); 
+        mycar.displayColor();
+    }
+}
