@@ -1,0 +1,14 @@
+
+class Main{
+    public static void main(String[] args) {
+        double num1=15.5;
+        double num2=20.3;
+
+        System.out.println("\nMath operations:");
+        System.out.println("max:" +Math.max(num1,num2));
+        System.out.println("min" +Math.min(num1,num2));
+        System.out.println("Square "+Math.sqrt(25));
+        System.out.println("power "+Math.pow(2,3));
+        System.out.println("Random number :"+Math.random());
+    }
+}
