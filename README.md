@@ -16,3 +16,4 @@
 ### 14. Math methodes in java
 ### 15. instance method
 ### 16. Methods calling in java
+### 17. Methods in different ways
