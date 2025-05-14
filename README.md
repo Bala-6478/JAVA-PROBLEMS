@@ -17,3 +17,4 @@
 * instance method
 * Methods calling in java
 * Methods in different ways
+* passing primitive types
