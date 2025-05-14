@@ -2,11 +2,11 @@
 
 * number check
 * Accept an integer
-* 3.  Saving Amount 
-* 4.  Nqt problem 
-* 5.  TimeConverter
-### 6.  Password Generator
-### 7.  return double 
+* Saving Amount 
+* Nqt problem 
+* TimeConverter
+* Password Generator
+* return double 
 ### 8.  ASCII values 
 ### 9.  Round the Number 
 ### 10. Float to Integer 
