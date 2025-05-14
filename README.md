@@ -7,13 +7,13 @@
 * TimeConverter
 * Password Generator
 * return double 
-### 8.  ASCII values 
-### 9.  Round the Number 
-### 10. Float to Integer 
-### 11. jumping statements
-### 12. Long to HexString
-### 13. volume calculation
-### 14. Math methodes in java
-### 15. instance method
-### 16. Methods calling in java
-### 17. Methods in different ways
+* ASCII values 
+* Round the Number 
+* Float to Integer 
+* jumping statements
+* Long to HexString
+* volume calculation
+* Math methodes in java
+* instance method
+* Methods calling in java
+* Methods in different ways
