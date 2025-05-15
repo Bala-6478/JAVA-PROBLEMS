@@ -1,0 +1,14 @@
+ class Person{
+    String name;
+}
+public class Main{
+    public static void changeName(Person p) {
+        p.name="Ush";
+    }
+    public static void main(String[] args) {
+        Person person=new Person();
+        person.name="Guhan ";
+        changeName( person); 
+        System.out.println(person.name);
+    }
+}
