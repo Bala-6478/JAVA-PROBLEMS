@@ -20,4 +20,6 @@
 * passing primitive types
 * passing referanes types
 * type 2 parameter passing
+* type 2 referance metod in java
+
 
