@@ -19,3 +19,5 @@
 * Methods in different ways
 * passing primitive types
 * passing referanes types
+* type 2 parameter passing
+
