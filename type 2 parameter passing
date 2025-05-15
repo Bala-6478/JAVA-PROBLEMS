@@ -1,0 +1,8 @@
+class Main{
+    public static void greet(String name,int age){
+        System.out.println("hello "+name+",you are "+age+ " year old");
+    }
+    public static void main(String[] args) {
+        greet("guhan", 23);
+    }
+}
