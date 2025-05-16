@@ -1,0 +1,27 @@
+public class Main{
+    private int num;
+    private String n;
+
+    public int getnumber(){
+        return num;
+    }
+    public String getname(){
+        return n;
+    }
+    public void setnumber(int num){
+        this.num=num;
+    }
+    public void setname(String n){
+        this.n=n;
+    }
+    public void printDetails(){
+        System.out.println(num);
+        System.out.println(n);
+    }
+    public static void main(String[] args) {
+        Main obj=new Main();
+        obj.setname("guhan ");
+        obj.setnumber(18);
+        obj.printDetails();
+    }
+}
