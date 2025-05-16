@@ -1,0 +1,9 @@
+class Main{
+    void hello(){
+        System.out.println("this is user defined method");
+    }
+    public static void main(String[] args){
+        Main obj=new Main();
+        obj.hello();
+    }
+}
