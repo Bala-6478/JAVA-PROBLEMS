@@ -1,0 +1,18 @@
+import java.util.*;
+public class Main{
+    static int num=100;
+    static String str="guhan";
+
+    static void display(){
+        System.out.println("static number "+num);
+        System.out.println("static String "+str);
+    }
+    void nonstatic(){
+        display();
+    }
+    public static void main(String[] args) {
+        Main obj=new Main();
+        obj.nonstatic();
+        display();
+    }
+}
