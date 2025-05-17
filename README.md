@@ -25,5 +25,6 @@
 * memory allocation in java
 * user defined methods
 * callind predefined methods
+* static method cannot called access instance variable
 
 
