@@ -28,5 +28,6 @@
 * static method cannot called access instance variable
 * static methods accessed from both static and non static methods
 * calling instance method
+* void instance methods without parameter
 
 
