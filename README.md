@@ -27,5 +27,6 @@
 * callind predefined methods
 * static method cannot called access instance variable
 * static methods accessed from both static and non static methods
+* calling instance method
 
 
