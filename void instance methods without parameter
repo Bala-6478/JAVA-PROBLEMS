@@ -1,0 +1,11 @@
+public class Main{
+    private String message="hello guhan";
+
+    public void sayHello(){
+        System.out.println(message);
+    } 
+    public static void main(String[] args) {
+        Main obj=new Main();
+        obj.sayHello();
+    }
+}
