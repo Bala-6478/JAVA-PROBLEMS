@@ -1,0 +1,12 @@
+import java.util.*;
+class Main{
+    public static void main(String[] args) {
+        Main obj=new Main();
+        obj.disp();
+        System.out.println("hello");
+    }
+    void disp(){
+        int a=20;
+        System.out.println(a);
+    }
+}
