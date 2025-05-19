@@ -29,5 +29,7 @@
 * static methods accessed from both static and non static methods
 * calling instance method
 * void instance methods without parameter
+* void instance method without parameter
+
 
 
