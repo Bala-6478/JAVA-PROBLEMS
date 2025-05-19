@@ -1,0 +1,15 @@
+public class Main{
+    private int count=0;
+    public int getCount(){
+        return count;
+    }
+    public void increment(){
+        count++;
+    }
+    public static void main(String[] args){
+        Main counter=new Main();
+        counter.increment();
+        counter.increment();
+        System.out.println(counter.getCount());
+    }
+}
