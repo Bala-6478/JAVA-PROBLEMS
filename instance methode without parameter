@@ -1,0 +1,16 @@
+import java.util.*;
+class class1{
+    void add(){
+        int a=2;
+        int b=3;
+
+        System.out.println("the sum of 2 and 3 "+(a+b));
+    }
+}
+class Main{
+    public static void main(String[] args) {
+        class1 obj=new class1();
+        obj.add();
+        System.out.println("good");
+    }
+}
