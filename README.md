@@ -32,6 +32,7 @@
 * void instance method without parameter
 * instance methode without parameter
 * instance methode with parameter
+* accessor and mutator methods
 
 
 
