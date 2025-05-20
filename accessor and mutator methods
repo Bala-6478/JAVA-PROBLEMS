@@ -1,0 +1,19 @@
+import java.util.*;
+class account{
+    private int balance=50;
+
+    public int getBalance(){
+        return balance;
+    }
+    public void setBalance(int a){
+        balance +=a;
+    }
+}
+class Main{
+    public static void main(String[] args) {
+        account obj=new account();
+        obj.setBalance(50);
+        System.out.println("your Balance is "+obj.getBalance());
+        System.out.println("good!");
+    }
+}
