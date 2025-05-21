@@ -33,6 +33,7 @@
 * instance methode without parameter
 * instance methode with parameter
 * accessor and mutator methods
+* business  logic method
 
 
 
