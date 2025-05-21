@@ -34,6 +34,7 @@
 * instance methode with parameter
 * accessor and mutator methods
 * business  logic method
+* amount deposit and withdraw check using method
 
 
 
