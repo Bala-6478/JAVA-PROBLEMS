@@ -1,0 +1,15 @@
+//public (most permissive )
+class student{
+    public String name;
+
+    public void display(){
+        System.out.println("Name : "+name);
+    }
+}
+public class Main{
+    public static void main(String[] args){
+        student obj=new student();
+        obj.name="guhan";
+        obj.display();
+    }
+}
