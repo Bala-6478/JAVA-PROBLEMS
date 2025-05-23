@@ -36,7 +36,7 @@
 * business  logic method
 * amount deposit and withdraw check using method
 * access modifiers in java public
-* Create access modifier in protected in java
+* access modifier in protected in java
 
   
 
