@@ -1,0 +1,19 @@
+class Person {
+    protected int age;
+
+    protected void setAge(int age) {
+        this.age = age;
+    }
+}
+
+public class Main extends Person {
+    void printAge() {
+        setAge(30);
+        System.out.println("Age is: " + age);
+    }
+
+    public static void main(String[] args) {
+        Main obj = new Main();
+        obj.printAge();
+    }
+}
