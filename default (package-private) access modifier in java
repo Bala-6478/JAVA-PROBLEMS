@@ -1,0 +1,41 @@
+class BankAccount {
+    double balance;
+
+    BankAccount(double balance) {
+        this.balance = balance;
+    }
+
+    void deposit(double amount) {
+        balance += amount;
+    }
+
+    public double getBalance() {
+        return balance;
+    }
+}
+
+class Customer {
+    private String name;
+    private BankAccount account;
+
+    public Customer(String name, double initialBalance) {
+        this.name = name;
+        this.account = new BankAccount(initialBalance);
+    }
+
+    public void makedeposit(double amount) {
+        account.deposit(amount);
+    }
+
+    public void printBalance() {
+        System.out.println(name + " balance is: $" + account.getBalance());
+    }
+}
+
+public class Main {
+    public static void main(String[] args) {
+        Customer customer = new Customer("guhan", 10000.0);
+        customer.makedeposit(500.0);
+        customer.printBalance();
+    }
+}
