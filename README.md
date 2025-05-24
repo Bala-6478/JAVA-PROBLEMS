@@ -37,7 +37,7 @@
 * amount deposit and withdraw check using method
 * access modifiers in java public
 * access modifier in protected in java
-* 
+* default (package-private) accss modifier in java
 
   
 
