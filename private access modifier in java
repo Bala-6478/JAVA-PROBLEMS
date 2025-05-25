@@ -1,0 +1,17 @@
+class Main{
+    private int privateField=10;
+
+    private void privateMethod(){
+        System.out.println("private menber");
+
+
+    }
+    public void accessProvateMembers(){
+        System.out.println("access privateField "+privateField);
+        privateMethod();
+    }
+    public static void main(String[] args) {
+        Main o=new Main();
+        o.accessProvateMembers();  
+    }
+}
