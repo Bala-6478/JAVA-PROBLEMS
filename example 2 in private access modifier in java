@@ -1,0 +1,22 @@
+class person{
+    private String name;
+
+    public void setName(String newName){
+        if(newName != null && !newName.isEmpty()){
+            name=newName;
+        }
+    }
+    public String getName(){
+        return name;
+    }
+    private void logNameChange(){
+        System.out.println("name change to "+name);
+    }
+}
+public class Main{
+    public static void main(String[] args) {
+        person p=new person();
+        p.setName("gushan");
+        System.out.println("Name "+p.getName());
+    }
+}
