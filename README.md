@@ -33,7 +33,7 @@
 * instance methode without parameter
 * instance methode with parameter
 * accessor and mutator methods
-* business  logic method
+* business logic method
 * amount deposit and withdraw check using method
 * access modifiers in java public
 * access modifier in protected in java
