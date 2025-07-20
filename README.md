@@ -1,5 +1,5 @@
 ## java problem    
-   
+    
 * number check
 * Accept an integer
 * Saving Amount 
