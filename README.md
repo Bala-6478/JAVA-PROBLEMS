@@ -14,7 +14,7 @@
 * Long to HexString
 * Volume calculation
 * Math methodes in java
-* instance method
+* Instance method
 * Methods calling in java
 * Methods in different ways
 * passing primitive types
