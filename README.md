@@ -22,7 +22,7 @@
 * Type 2 parameter passing
 * Type 2 referance metod in java
 * Memory allocation in method
-* memory allocation in java
+* Memory allocation in java
 * user defined methods
 * callind predefined methods
 * static method cannot called access instance variable
