@@ -6,7 +6,7 @@
 * Nqt problem 
 * TimeConverter
 * Password Generator
-* return double 
+* Return double 
 * ASCII values 
 * Round the Number 
 * Float to Integer 
