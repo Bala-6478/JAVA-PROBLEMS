@@ -26,10 +26,10 @@
 * User defined methods
 * Callind predefined methods
 * Static method cannot called access instance variable
-* static methods accessed from both static and non static methods
-* calling instance method
-* void instance methods without parameter
-* void instance method without parameter
+* Static methods accessed from both static and non static methods
+* Calling instance method
+* Void instance methods without parameter
+* Void instance method without parameter
 * instance methode without parameter
 * instance methode with parameter
 * accessor and mutator methods
