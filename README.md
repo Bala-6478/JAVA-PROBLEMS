@@ -20,7 +20,7 @@
 * Passing primitive types
 * Passing referanes types
 * Type 2 parameter passing
-* type 2 referance metod in java
+* Type 2 referance metod in java
 * memory allocation in method
 * memory allocation in java
 * user defined methods
