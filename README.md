@@ -21,7 +21,7 @@
 * Passing referanes types
 * Type 2 parameter passing
 * Type 2 referance metod in java
-* memory allocation in method
+* Memory allocation in method
 * memory allocation in java
 * user defined methods
 * callind predefined methods
