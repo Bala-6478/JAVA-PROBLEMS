@@ -12,7 +12,7 @@
 * Float to Integer 
 * Jumping statements
 * Long to HexString
-* volume calculation
+* Volume calculation
 * Math methodes in java
 * instance method
 * Methods calling in java
