@@ -10,7 +10,7 @@
 * ASCII values 
 * Round the Number 
 * Float to Integer 
-* jumping statements
+* Jumping statements
 * Long to HexString
 * volume calculation
 * Math methodes in java
