@@ -36,12 +36,12 @@
 * Business logic method
 * Amount deposit and withdraw check using method
 * Access modifiers in java public
-* access modifier in protected in java
-* private access modifier in java
-* example 2 in private access modifier in java
-* command line arguments in java
-* command line argument in java using for each loop in java
-* command line argument in java use to calculate sum of two number
+* Access modifier in protected in java
+* Private access modifier in java
+* Example 2 in private access modifier in java
+* Command line arguments in java
+* Command line argument in java using for each loop in java
+* Command line argument in java use to calculate sum of two number
 
 
   
