@@ -35,7 +35,7 @@
 * Accessor and mutator methods
 * Business logic method
 * Amount deposit and withdraw check using method
-* access modifiers in java public
+* Access modifiers in java public
 * access modifier in protected in java
 * private access modifier in java
 * example 2 in private access modifier in java
