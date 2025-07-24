@@ -30,11 +30,11 @@
 * Calling instance method
 * Void instance methods without parameter
 * Void instance method without parameter
-* instance methode without parameter
-* instance methode with parameter
-* accessor and mutator methods
-* business logic method
-* amount deposit and withdraw check using method
+* Instance methode without parameter
+* Instance methode with parameter
+* Accessor and mutator methods
+* Business logic method
+* Amount deposit and withdraw check using method
 * access modifiers in java public
 * access modifier in protected in java
 * private access modifier in java
