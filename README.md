@@ -1,6 +1,6 @@
 ## JAVA PROBLEMS  
           
-* number check
+* Number check
 * Accept an integer
 * Saving Amount 
 * Nqt problem 
