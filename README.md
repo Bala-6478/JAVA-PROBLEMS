@@ -23,9 +23,9 @@
 * Type 2 referance metod in java
 * Memory allocation in method
 * Memory allocation in java
-* user defined methods
-* callind predefined methods
-* static method cannot called access instance variable
+* User defined methods
+* Callind predefined methods
+* Static method cannot called access instance variable
 * static methods accessed from both static and non static methods
 * calling instance method
 * void instance methods without parameter
