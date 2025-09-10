@@ -1,5 +1,5 @@
 ## JAVA PROBLEMS     
-                
+                 
 * Number check
 * Accept an integer
 * Saving Amount 
