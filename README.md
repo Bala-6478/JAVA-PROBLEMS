@@ -1,4 +1,4 @@
-## JAVA PROBLEMS          
+## JAVA PROBLEMS           
                     
 * Number check
 * Accept an integer
