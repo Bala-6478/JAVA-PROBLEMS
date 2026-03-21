@@ -4,7 +4,7 @@ This repository contains a collection of Java programming problems and fundament
 
 ---
 
-### I. 🔢 Basic Number Operations & Data Types
+### I. 🔢 Basic Number Operations & Data Types  
 
 | Topic | Description | Example Files |
 | :--- | :--- | :--- |
