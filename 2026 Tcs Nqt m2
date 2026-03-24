@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+public class GymMembership {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n = sc.nextInt();
+
+        switch (n) {
+            case 1:
+                System.out.println(2000);
+                break;
+            case 3:
+                System.out.println(5000);
+                break;
+            case 6:
+                System.out.println(9000);
+                break;
+            case 9:
+                System.out.println(12000);
+                break;
+            case 12:
+                System.out.println(15000);
+                break;
+            default:
+                System.out.println("Error");
+        }
+
+        sc.close();
+    }
+}
