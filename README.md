@@ -22,6 +22,7 @@ This repository contains a collection of Java programming problems and fundament
 ### II. 🕰 Utility and Logic Problems
 
 * **NQT Problem:** A typical problem often asked in the NQT (National Qualifier Test) or similar competitive exams (e.g., array manipulation, string processing).
+*  **NQT 2026 Problem:** A new 2026 batch questions based on condition statement, like using if else if type question.
 * **TimeConverter:** Methods to convert time units (e.g., hours to minutes, seconds to milliseconds).
 * **Password Generator:** Program to generate a random, secure password based on specified criteria.
 * **Volume Calculation:** Methods to calculate the volume of various geometric shapes (e.g., sphere, cube, cylinder).
